@@ -16,7 +16,6 @@ Dùng Excel, SQL, Power BI để phân tích và trực quan hóa dữ liệu.
 ## Công cụ
 - Power BI (DAX)
 - SQL Server
-- Python (pandas, matplotlib)
 - GitHub Actions (CI)
 
 ## Kết quả chính
