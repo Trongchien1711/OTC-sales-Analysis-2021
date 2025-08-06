@@ -31,5 +31,5 @@ Dùng Excel, SQL, Power BI để phân tích và trực quan hóa dữ liệu.
 4. Xem ảnh dashboard trong `powerbi/dashboard_screenshots/`.
 
 ## Liên hệ
-Author: [Tên bạn]  
-Email: you@example.com
+Author: Trọng Chiến
+Email: Trongchien1711@gmail.com
