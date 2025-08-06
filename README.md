@@ -1,7 +1,7 @@
 # OTC Sales Analysis (2021)
 
 Portfolio project phân tích doanh thu kênh OTC của Dan Khang năm 2021.  
-Dùng Excel, SQL, Power BI, Python để phân tích và trực quan hóa dữ liệu.
+Dùng Excel, SQL, Power BI để phân tích và trực quan hóa dữ liệu.
 
 ## Mục tiêu
 - Phân tích tổng quan doanh thu OTC.
