@@ -15,9 +15,10 @@ Mục tiêu là xác định hiệu quả kinh doanh, xu hướng tăng trưởn
 - Số lượng:
   - > 65,000 đơn hàng
   - > 8,000 khách hàng
-  - > 1 triệu sản phẩm được bán ra
+  - > 1,000,000 sản phẩm được bán ra
   - > Gần 200 loại sản phẩm
-  - Doanh thu 108.6 tỷ VND
+  - > 30,000 dòng
+  - > Doanh thu 108.6 tỷ VND
 - Thời gian: 2020–2021
 - Các bảng Dimension: **Product**, **Customer**, **Employee**, **Date**
 - Các bảng Fact: **Sales**, **Return**
@@ -31,7 +32,7 @@ Mục tiêu là xác định hiệu quả kinh doanh, xu hướng tăng trưởn
 
 ## 📊 Quy trình thực hiện
 1. **Thu thập dữ liệu** từ Excel và SQL Server.
-2. **Làm sạch & tiền xử lý**: loại bỏ dữ liệu trống, trùng lặp, chuẩn hóa định dạng.
+2. **Làm sạch & tiền xử lý**: loại bỏ dữ liệu trống, trùng lặp, chuẩn hóa định dạng bằng SQL và Excel.
 3. **Mô hình dữ liệu Star Schema** gồm 2 Fact và 4 Dimension.
 4. **Kết nối dữ liệu** vào Power BI, Append 2 năm thành 1 bảng phân tích.
 5. **Tạo Dashboard** và phân tích chuyên sâu kênh OTC.
@@ -48,7 +49,7 @@ Mục tiêu là xác định hiệu quả kinh doanh, xu hướng tăng trưởn
 1. Tập trung ngân sách marketing vào nhóm sản phẩm top và khu vực miền Nam.
 2. Triển khai chương trình giữ chân khách hàng để giảm churn rate ( từ 33% -> 20%)
 3. Phát triển mạnh kênh online.
-4. Đặt mục tiêu năm 2023 tăng trưởng 40-50% dựa vào tăng trưởng 40% khách hàng mới và giảm tỉ lệ Churn rate xuống 20%
+4. Đặt ra mục tiêu năm 2023 là tăng trưởng 40-50% dựa vào tiềm năng tăng trưởng 40% khách hàng mới và đề xuất chương trình giảm tỉ lệ Churn rate xuống 20%
 
 ## 📷 Dashboard & Hình ảnh
 ![Revenue Overview](powerbi/dashboard_screenshots/Revenue_Overview.PNG)
