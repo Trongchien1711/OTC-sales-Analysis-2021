@@ -1,0 +1,6 @@
+# Ignore raw data
+data/raw/
+*.pbix
+.env
+*.bak
+*.xlsx
