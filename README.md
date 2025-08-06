@@ -51,7 +51,7 @@ Mục tiêu là xác định hiệu quả kinh doanh, xu hướng tăng trưởn
 4. Đặt mục tiêu năm 2023 tăng trưởng 40-50% dựa vào tăng trưởng 40% khách hàng mới và giảm tỉ lệ Churn rate xuống 20%
 
 ## 📷 Dashboard & Hình ảnh
-![Revenue Overview](powerbi/dashboard_screenshots/Revenue Overview.png)
+![Revenue Overview](powerbi/dashboard_screenshots/Revenue_Overview.png)
 ![OTC Revenue](docs/otc_analysis.png)
 ![Highest Churn Rate](docs/churn_analysis.png)
 ![Lowest Churn Rate]
