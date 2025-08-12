@@ -22,8 +22,6 @@ Mục tiêu là xác định hiệu quả kinh doanh, xu hướng tăng trưởn
 - Thời gian: 2020–2021
 - Các bảng Dimension: **Product**, **Customer**, **Employee**, **Date**
 - Các bảng Fact: **Sales**, **Return**
-- **Bảo mật**: Repo chỉ chứa dữ liệu sample (ẩn danh).
-
 ## 🛠 Công cụ sử dụng
 - **Excel**: Làm sạch dữ liệu, phân loại kênh bán hàng.
 - **SQL Server**: Xử lý & mô hình dữ liệu Star Schema.
