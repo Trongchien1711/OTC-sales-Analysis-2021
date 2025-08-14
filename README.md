@@ -17,7 +17,7 @@ Mục tiêu là xác định hiệu quả kinh doanh, xu hướng tăng trưởn
   - > 8,000 khách hàng
   - > 1,000,000 sản phẩm được bán ra
   - > Gần 200 loại sản phẩm
-  - > 30,000 dòng
+  - > 240,000 dòng
   - > Doanh thu 108.6 tỷ VND
 - Thời gian: 2020–2021
 - Các bảng Dimension: **Product**, **Customer**, **Employee**, **Date**
